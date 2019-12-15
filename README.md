@@ -48,16 +48,16 @@ This script is used through resource override, if the game patches it, deal with
 - [ ] grozas
 - [X] hk416
 - [ ] l86
-- [ ] m1014
+- [X] m1014
 - [ ] m1100
 - [ ] m1a1
 - [X] m249
 - [X] m39
-- [ ] m4a1
+- [X] m4a1
 - [X] m870
 - [X] m9
-- [ ] m9_cursed
-- [ ] m911
+- [X] m9_cursed
+- [X] m911
 - [X] m93r
 - [X] mac10
 - [X] mk12
@@ -69,7 +69,7 @@ This script is used through resource override, if the game patches it, deal with
 - [X] ot38
 - [ ] ots30
 - [ ] p30l
-- [ ] pkp
+- [X] pkp
 - [ ] potato_cannon
 - [X] qbb97
 - [X] saiga
@@ -79,7 +79,7 @@ This script is used through resource override, if the game patches it, deal with
 - [ ] scout
 - [X] spas12
 - [X] sv98
-- [ ] svd
+- [X] svd
 - [X] ump9
 - [ ] usas
 - [X] vector
