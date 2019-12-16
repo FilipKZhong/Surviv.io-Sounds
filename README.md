@@ -11,8 +11,6 @@
 7. Open Surviv.io* [Read note 1a]
 8. Should be working
 
-<sup>\* Note 1a: This Only works on a direct surviv.io link and not https:// or http://</sup>
-
 ## Credits
 
 *Humphreygaming, creator of the original extension*
